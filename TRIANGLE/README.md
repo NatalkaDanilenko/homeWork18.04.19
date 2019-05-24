@@ -1,0 +1,2 @@
+# TRIANGLE
+homework part1

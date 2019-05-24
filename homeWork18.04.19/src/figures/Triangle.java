@@ -1,10 +1,49 @@
 package figures;
 
+/**
+ * Создайте классы, которые описывают,
+ * как минимум, три геометрические фигуры
+ * (они должны быть подклассами Shape).
+ * При этом они в качестве свойств должны содержать классы Point.
+ */
 public class Triangle extends Shape {
-    private int count = 3;
-    Point a = new Point(0, 0);
-    Point b = new Point(0, 5);
-    Point c = new Point(2, 3);
+    public static final int count = 3;
+    private Point a = new Point();
+    private Point b = new Point();
+    private Point c = new Point();
+
+    public Triangle() {
+    }
+
+    public Triangle(Point a, Point b, Point c) {
+        this.a = a;
+        this.b = b;
+        this.c = c;
+    }
+
+    public Point getA() {
+        return a;
+    }
+
+    public void setA(Point a) {
+        this.a = a;
+    }
+
+    public Point getB() {
+        return b;
+    }
+
+    public void setB(Point b) {
+        this.b = b;
+    }
+
+    public Point getC() {
+        return c;
+    }
+
+    public void setC(Point c) {
+        this.c = c;
+    }
 
     /**
      * @return perimetr of your triangle

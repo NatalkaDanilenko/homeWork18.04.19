@@ -1,9 +1,4 @@
-package figures;
-
-/**
- * Создайте класс Point, в котором есть два свойства
- * double x double y.
- */
+package phone;
 
 public class Point {
     private double x;
@@ -16,6 +11,7 @@ public class Point {
      * @param y - y-coord of figures.Point
      */
     public Point(double x, double y) {
+        super();
         this.x = x;
         this.y = y;
     }
@@ -57,20 +53,4 @@ public class Point {
     public void setY(double point) {
         this.y = point;
     }
-
-    /**
-     * This method scan array of point for create your figure and return it.
-     * @param count - count of points for create your figure.
-     *              For example: for figures.Circle you should input 2 points (O(0.0) and R (2.0)).
-     * @return array of points for your figure
-     */
-    /*public double [] myScanner(int count) {
-        double[] coordOfFigure = new double[count];
-        for (int i = 0; i < count; i++) {
-            Scanner sc = new Scanner(System.in);
-            System.out.println("Input " + count + " point of your figure");
-            coordOfFigure[i] = sc.nextDouble();
-        }
-        return coordOfFigure;
-    }*/
 }

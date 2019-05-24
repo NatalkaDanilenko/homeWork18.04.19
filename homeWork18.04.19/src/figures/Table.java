@@ -1,8 +1,35 @@
 package figures;
 
-public class Table {
-    public static void main (String [] args){
+import java.io.File;
 
+public class Table {
+    // все по клеточкам
+
+    private int h;// высота таблички в клеточках
+    private int s;// ширина таблички в клеточках
+
+    public Table() {
+    }
+
+    public Table(int h, int s) {
+        this.h = h;
+        this.s = s;
+    }
+
+    public int getH() {
+        return h;
+    }
+
+    public void setH(int h) {
+        this.h = h;
+    }
+
+    public int getS() {
+        return s;
+    }
+
+    public void setS(int s) {
+        this.s = s;
     }
 
     /**
@@ -12,7 +39,7 @@ public class Table {
      *
      * @param param - this is a array of params of your figure
      */
-    public static void addFigure (double [] param){
+    public static void addFigure (Point [] points, int h, int s, File file){
 
     }
     /**
@@ -22,7 +49,7 @@ public class Table {
      *
      * @param params - this is a array of params of your figure
      */
-    public static void removeFigure (double [] params){
+    public static void removeFigure (Point [] points, int h, int s, File file){
 
     }
     /**

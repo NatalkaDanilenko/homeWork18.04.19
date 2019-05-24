@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ae11b24-eb1e-465e-886b-06ed877e9fb6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CAT/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CAT/src/cat/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CAT/src/cat/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHONE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/phone/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/phone/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/phone/Network.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/phone/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/phone/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/phone/SystemOn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRIANGLE/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRIANGLE/src/figure/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TRIANGLE/src/figure/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VECTOR/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VECTOR/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VECTOR/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VECTOR/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VECTOR/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VECTOR/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VECTOR/VECTOR.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VECTOR/src/vector/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VECTOR/src/vector/Vector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeWork18.04.19/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homeWork18.04.19/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeWork18.04.19/src/figures/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homeWork18.04.19/src/figures/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeWork18.04.19/src/figures/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homeWork18.04.19/src/figures/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeWork18.04.19/src/figures/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homeWork18.04.19/src/figures/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeWork18.04.19/src/figures/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homeWork18.04.19/src/figures/Table.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeWork18.04.19/src/figures/Trapezium.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homeWork18.04.19/src/figures/Trapezium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeWork18.04.19/src/figures/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homeWork18.04.19/src/figures/Triangle.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/phone/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/phone/Phone.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1122">
+              <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+              <folding>
+                <element signature="e#190#191#0" expanded="true" />
+                <element signature="e#219#220#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
+                <element signature="e#427#428#0" expanded="true" />
+                <element signature="e#451#452#0" expanded="true" />
+                <element signature="e#539#540#0" expanded="true" />
+                <element signature="e#563#564#0" expanded="true" />
+                <element signature="e#754#755#0" expanded="true" />
+                <element signature="e#786#787#0" expanded="true" />
+                <element signature="e#699#700#0" expanded="true" />
+                <element signature="e#725#726#0" expanded="true" />
+                <element signature="e#759#760#0" expanded="true" />
+                <element signature="e#785#786#0" expanded="true" />
+                <element signature="e#836#837#0" expanded="true" />
+                <element signature="e#878#879#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/phone/Network.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+              <folding>
+                <element signature="e#663#664#0" expanded="true" />
+                <element signature="e#696#697#0" expanded="true" />
+                <element signature="e#748#749#0" expanded="true" />
+                <element signature="e#792#793#0" expanded="true" />
+                <element signature="e#829#830#0" expanded="true" />
+                <element signature="e#862#863#0" expanded="true" />
+                <element signature="e#914#915#0" expanded="true" />
+                <element signature="e#958#959#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/phone/Circle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#369#370#0" expanded="true" />
+                <element signature="e#393#394#0" expanded="true" />
+                <element signature="e#426#427#0" expanded="true" />
+                <element signature="e#452#453#0" expanded="true" />
+                <element signature="e#479#480#0" expanded="true" />
+                <element signature="e#503#504#0" expanded="true" />
+                <element signature="e#536#537#0" expanded="true" />
+                <element signature="e#562#563#0" expanded="true" />
+                <element signature="e#713#714#0" expanded="true" />
+                <element signature="e#739#740#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/phone/Point.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>setXcoord</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>setCoord</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/phone/Shape.java" />
+        <option value="$PROJECT_DIR$/src/phone/SystemOn.java" />
+        <option value="$PROJECT_DIR$/src/phone/Network.java" />
+        <option value="$PROJECT_DIR$/src/phone/Point.java" />
+        <option value="$PROJECT_DIR$/src/phone/Phone.java" />
+        <option value="$PROJECT_DIR$/src/phone/Main.java" />
+        <option value="$PROJECT_DIR$/src/phone/Circle.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="25" />
+    <option name="y" value="52" />
+    <option name="width" value="1400" />
+    <option name="height" value="760" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PHONE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PHONE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PHONE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PHONE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PHONE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PHONE" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="phone" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558737141500" />
+    <property name="extract.method.default.visibility" value="private" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="phone" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phone.Main" />
+      <module name="PHONE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="phone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ae11b24-eb1e-465e-886b-06ed877e9fb6" name="Default Changelist" comment="" />
+      <created>1558642024420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558642024420</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="25" y="52" width="1400" height="760" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496318" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32934132" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26497006" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/phone/SystemOn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/phone/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/phone/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/phone/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#739#740#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/phone/Network.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+          <folding>
+            <element signature="e#663#664#0" expanded="true" />
+            <element signature="e#696#697#0" expanded="true" />
+            <element signature="e#748#749#0" expanded="true" />
+            <element signature="e#792#793#0" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
+            <element signature="e#862#863#0" expanded="true" />
+            <element signature="e#914#915#0" expanded="true" />
+            <element signature="e#958#959#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/phone/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+          <folding>
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#754#755#0" expanded="true" />
+            <element signature="e#786#787#0" expanded="true" />
+            <element signature="e#699#700#0" expanded="true" />
+            <element signature="e#725#726#0" expanded="true" />
+            <element signature="e#759#760#0" expanded="true" />
+            <element signature="e#785#786#0" expanded="true" />
+            <element signature="e#836#837#0" expanded="true" />
+            <element signature="e#878#879#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/phone/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
